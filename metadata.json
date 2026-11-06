@@ -1,0 +1,6 @@
+{
+  "name": "RED-X APK Protector Ultra",
+  "description": "Advanced APK Security & Protection Engine developed by A.K.M REDWAN (Android Application Developer & Security Researcher). Features DEX hardening, STORED resources.arsc & .so mmap preservation, dual v1+v2 signing, and zero parse error immunity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
